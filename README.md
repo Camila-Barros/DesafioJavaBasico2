@@ -39,11 +39,9 @@ Implementar uma aplicação para cadastrar nossas músicas e podcasts preferidos
 <p></p>
 
 
-## Solução
 
-Minha solução do desafio [aqui].
 
-<p></p>
+
 
 
 ## Autora
